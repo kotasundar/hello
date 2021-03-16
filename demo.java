@@ -1,5 +1,5 @@
 class demo {
-	public static void main(String Args[])  {
+	public static vojiewhfuid main(String Args[])  {
 		System.out.println("sundar");
 	        System.out.println("kota");	
 	}
